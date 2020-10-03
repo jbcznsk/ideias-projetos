@@ -7,6 +7,6 @@
  - [ ] :pie: Alguma coisa com PI 
  
 ## Arduino / ESP
- - [ ] :pill: Dopamine Box 
+ - [ ] :brain: Dopamine Box 
  - [ ] :date: Controle de Presença
-
+ - [ ] :pill: Dispenser de Remédios 
