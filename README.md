@@ -10,3 +10,8 @@
  - [ ] :brain: Dopamine Box 
  - [ ] :date: Controle de Presença
  - [ ] :pill: Dispenser de Remédios 
+
+## Jogos
+ - [ ] Pac Man
+ - [ ] 2048
+ - [ ] Jogo da Vida
