@@ -12,6 +12,6 @@
  - [ ] :pill: Dispenser de Remédios 
 
 ## Jogos
- - [ ] Pac Man
- - [ ] 2048
- - [ ] Jogo da Vida
+ - [ ] :pizza: Pac Man
+ - [ ] :two: :zero: :four: :eight:
+ - [ ] :black_medium_square: Jogo da Vida
