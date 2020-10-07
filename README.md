@@ -6,6 +6,7 @@
  - [ ] :floppy_disk: Gerador de dados
  - [ ] :pie: Alguma coisa com PI 
  - [ ] :monocle_face: Interpretador/Tradutor de Brainfuck
+ - [ ] :printer: Interface com impressora (???)
  
 ## Arduino / ESP
  - [ ] :brain: Dopamine Box 
