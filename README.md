@@ -17,3 +17,6 @@
  - [ ] :pizza: Pac Man
  - [ ] :two: :zero: :four: :eight:
  - [ ] :black_medium_square: Jogo da Vida
+ 
+ ## Raspberry
+ - [ ] :video_game: Emulador de consoles antigos
