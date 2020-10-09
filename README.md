@@ -16,7 +16,7 @@
 ## Jogos
  - [ ] :pizza: Pac Man
  - [ ] :two: :zero: :four: :eight:
- - [ ] :black_medium_square: Jogo da Vida
+ - [x] :black_medium_square: [Jogo da Vida](https://github.com/JorgeJabczenski/GameOfLife)
  - [ ] :: Sudoku
  
  ## Raspberry
