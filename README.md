@@ -17,7 +17,8 @@
  - [ ] :pizza: Pac Man
  - [ ] :two: :zero: :four: :eight:
  - [x] :black_medium_square: [Jogo da Vida](https://github.com/JorgeJabczenski/GameOfLife)
- - [ ] :: Sudoku
+ - [ ] :zero: Sudoku
+ - [ ] :ant: Langton's Ant
  
  ## Raspberry
  - [ ] :video_game: Emulador de consoles antigos
