@@ -18,7 +18,7 @@
  - [ ] :two: :zero: :four: :eight:
  - [x] :black_medium_square: [Jogo da Vida](https://github.com/JorgeJabczenski/GameOfLife)
  - [ ] :zero: Sudoku
- - [ ] :ant: Langton's Ant
+ - [x] :ant: [Langton's Ant](https://github.com/JorgeJabczenski/LangtonAnt)
  
  ## Raspberry
  - [ ] :video_game: Emulador de consoles antigos
