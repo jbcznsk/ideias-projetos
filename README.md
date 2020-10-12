@@ -1,7 +1,7 @@
 # Ideias para Projetos
 <b> Um lugar pra botar as ideias que eu tenho porque eu sempre escrevo em um papel e perco ele </b>
 
-## Computador
+## Linux
  - [ ] :chart: Gráficos Não-Relacionados
  - [ ] :floppy_disk: Gerador de dados
  - [ ] :pie: Alguma coisa com PI 
