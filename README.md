@@ -12,6 +12,7 @@
  - [ ] :brain: Dopamine Box 
  - [ ] :date: Controle de Presença
  - [ ] :pill: Dispenser de Remédios 
+ - [ ] :pill: Medicine Counter / Alarm
 
 ## Jogos
  - [ ] :pizza: Pac Man
