@@ -6,7 +6,7 @@
  - [ ] :floppy_disk: [Gerador de dados](https://github.com/JorgeJabczenski/database_generator)
  - [ ] :pie: Alguma coisa com PI 
  - [ ] :monocle_face: [Interpretador/Tradutor de Brainfuck](https://github.com/JorgeJabczenski/BrainFuckInterpreter)
- - [ ] :printer: Interface com impressora (???)
+ - [ ] ~~:printer: Interface com impressora (???)~~
  - [ ] :dizzy_face: DDDA - Dose Diária de Dados Aleatórios
  - [ ] :cyclone: Gerador/Gerenciador de senhas
  - [ ] :keyboard: Teste de Digitação
