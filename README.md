@@ -9,7 +9,7 @@
  - [ ] :printer: Interface com impressora (???)
  
 ## Arduino / ESP
- - [ ] :brain: Dopamine Box 
+ - [ ] :brain: Dopamine Box / Fisical To-Do Calendar
  - [ ] :date: Controle de Presença
  - [ ] :pill: Dispenser de Remédios 
  - [ ] :pill: Medicine Counter / Alarm
