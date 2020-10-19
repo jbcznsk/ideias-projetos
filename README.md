@@ -16,6 +16,7 @@
  - [ ] :date: Controle de Presença
  - [ ] :pill: Dispenser de Remédios 
  - [ ] :pill: Medicine Counter / Alarm
+ - [ ] :computer: Monitor externo do sistema (7-segmentos provavelmente)
 
 ## Jogos
  - [ ] :pizza: Pac Man
