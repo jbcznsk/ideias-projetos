@@ -29,3 +29,4 @@
  - i3
  - Spacevim
  - Doom-Emacs
+ - zsh
