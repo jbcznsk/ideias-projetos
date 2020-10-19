@@ -25,7 +25,7 @@
  - [ ] :video_game: Emulador de consoles antigos
 
 ## Testar
- - [ ] Arch Linux
- - [ ] i3
- - [ ] Spacevim
- - [ ] Doom-Emacs
+ - Arch Linux
+ - i3
+ - Spacevim
+ - Doom-Emacs
