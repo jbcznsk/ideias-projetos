@@ -34,3 +34,4 @@
  - Spacevim
  - Doom-Emacs
  - zsh
+ - Twython
