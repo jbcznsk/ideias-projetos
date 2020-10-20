@@ -11,12 +11,14 @@
  - [ ] :cyclone: Gerador/Gerenciador de senhas
  - [ ] :keyboard: Teste de Digitação
  - [ ] :tv: Gerador de Gifs de Filmes
+ 
 ## Arduino / ESP
  - [ ] :brain: Dopamine Box / Fisical To-Do Calendar
  - [ ] :date: Controle de Presença
  - [ ] :pill: Dispenser de Remédios 
  - [ ] :pill: Medicine Counter / Alarm
  - [ ] :computer: Monitor externo do sistema (7-segmentos provavelmente)
+ - [ ] :bulb: Aviso da porta do armário
 
 ## Jogos
  - [ ] :pizza: Pac Man
@@ -25,7 +27,7 @@
  - [ ] :zero: Sudoku
  - [x] :ant: [Langton's Ant](https://github.com/JorgeJabczenski/LangtonAnt)
  
- ## Raspberry
+## Raspberry
  - [ ] :video_game: Emulador de consoles antigos
 
 ## Testar
@@ -35,3 +37,4 @@
  - Doom-Emacs
  - zsh
  - Twython
+ - Pytorch
