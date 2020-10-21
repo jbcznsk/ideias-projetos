@@ -11,6 +11,7 @@
  - [ ] :cyclone: Gerador/Gerenciador de senhas
  - [ ] :keyboard: Teste de Digitação
  - [ ] :tv: Gerador de Gifs de Filmes
+ - [ ] :bird: Twitter + Ncurses = Depressão
  
 ## Arduino / ESP
  - [ ] :brain: Dopamine Box / Fisical To-Do Calendar
